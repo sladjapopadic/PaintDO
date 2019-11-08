@@ -1,3 +1,4 @@
+![](demo.gif)
 # PaintDO
  A simple Paint simulation MVC application for creating drawings, developed with the goal of learning/practicing the use of various design patterns and OOP.</br>
  Features:</br>
@@ -12,4 +13,4 @@
 
  </br>
  Demo:</br>
-![](demo.gif)
+
