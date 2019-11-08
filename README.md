@@ -10,5 +10,5 @@
  -bring to back<br/>
  -bring to front<br/>
  -save/load drawings<br/>
- ### Demo: <br/>![](demo.gif)
+ ### Demo: <br/> ![](demo.gif)
 
