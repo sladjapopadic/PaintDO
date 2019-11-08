@@ -1,9 +1,9 @@
 
  PaintDO
- A simple Paint simulation MVC application for creating drawings, developed with the goal of learning/practicing the use of various design patterns and OOP.</br>Demo:</br></br> ![](demo.gif)
+ A simple Paint simulation MVC application for creating drawings, developed with the goal of learning/practicing the use of various design patterns and OOP.</br>Demo:</br></br> 
 
  Features:</br>
- -drawing shapes (point, line, rectangle, square, circle, hexagon)</br>
+ -drawing shapes - point, line, rectangle, square, circle, hexagon</br>
  -editing shapes</br>
  -deleting shapes</br>
  -undo</br>
@@ -13,5 +13,5 @@
  -save/load drawings</br></br>
 
  </br>
- Demo:</br>
+ Demo:</br>![](demo.gif)
 
