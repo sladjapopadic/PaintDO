@@ -12,4 +12,3 @@
 
  </br>
  Demo:</br>
- ![](demo.gif)
